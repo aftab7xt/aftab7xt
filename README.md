@@ -1,16 +1,45 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I'm currently building DeenBase (Islamic companion app) and Settlr (a fast, minimal debt tracker)<br>👯 I'm looking to collaborate on Android apps<br>🌱 I'm learning Kotlin and Python, building projects while I prep for B.Tech CSE (AI/ML)<br>💬 Ask me about Android development
 
-<!--
-**aftab7xt/aftab7xt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[
 
-Here are some ideas to get you started:
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+](https://instagram.com/aftab7xt) [
+
+![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
+
+](https://x.com/notoriousaftab) [
+
+![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+
+](mailto:skaftaballi32@gmail.com) 
+
+# 📊 GitHub Stats:
+
+
+![](https://github-readme-stats.shion.dev/api?username=aftab7xt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+
+![](https://streak-stats.demolab.com/?user=aftab7xt&theme=dark&hide_border=false)
+
+<br/>
+
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aftab7xt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+## 💰 You can help me by Donating
+[
+
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+
+](https://buymeacoffee.com/aftab7xt) [
+
+![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+
+](https://ko-fi.com/aftab7xt)
