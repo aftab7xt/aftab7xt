@@ -6,10 +6,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=aftab7xt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-<br/>
-
 ![](https://streak-stats.demolab.com/?user=aftab7xt&theme=dark&hide_border=false)
 
 <br/>
