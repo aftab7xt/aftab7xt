@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aftab7xt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💰 You can help me by Donating
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aftab7xt) [![Buy Me A Tea ( only UPI)](https://img.shields.io/badge/Buy_Me_A_Tea_(UPI)-FF7F50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://onlychai.neocities.org/support.html?name=Shaikh%20Aftab%20Alli&upi=skaftab77%40axl#)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aftab7xt) [![Buy Me A Tea (UPI)](https://img.shields.io/badge/Buy_Me_A_Tea_(UPI)-FF7F50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://onlychai.neocities.org/support.html?name=Shaikh%20Aftab%20Alli&upi=skaftab77%40axl#)
