@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently building DeenBase (Islamic companion app) and Settlr (a fast, minimal debt tracker)<br>👯 I'm looking to collaborate on Android apps<br>🌱 I'm learning Kotlin and Python, building projects while I prep for B.Tech CSE (AI/ML)<br>💬 Ask me about Android development
+🔭 I'm currently building DeenBase (Islamic companion app) and Settlr (a fast, minimal debt tracker)<br>👯 I'm looking to collaborate on Android apps<br>🌱 I'm learning C and Python, building projects while I prep for B.Tech CSE (AI/ML)<br>💬 Ask me about Android development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aftab7xt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notoriousaftab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skaftaballi32@gmail.com)
